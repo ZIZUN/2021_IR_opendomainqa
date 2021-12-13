@@ -2,7 +2,10 @@
 2021 정보검색 과제. 한국어 위키피디아 오픈도메인 질의응답 시스템
 
 ## Notice
-+ linux 환경만 지원합니다(pororo때매), Mac은 test 안해봄.
++ 검색을 위한 문서 Collection은 Korpora의 kowikitext를 사용.
++ Retriever는 BM25기반 ElasticSearch 사용.
++ Reader(MRC)는 Pororo의 MRC 모델 사용함.(KorQuAD로 학습됨)
++ linux 환경만 지원(pororo때매), Mac은 test 안해봄.
 + Docker 설치 되어있어야 됨(Elastic Search 설치 위해서) 만약 설치 안되어있다면, 따로 ElasticSearch 설치하면 됨.
 
 ## Process
