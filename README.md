@@ -1,2 +1,2 @@
 # 2021_IR_opendomainqa
-2021 정보검색 과제 elasticsearch와 pororo 이용한 간단한 OpenDomain QA System
+2021 정보검색 과제. 한국어 위키피디아 오픈도메인 질의응답 시스템
