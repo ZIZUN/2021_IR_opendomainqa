@@ -1,6 +1,8 @@
 # 2021_IR_opendomainqa
 2021 정보검색 과제. 한국어 위키피디아 오픈도메인 질의응답 시스템
 
+ ![1](./image/1.PNG)
+
 ## Notice
 + 검색을 위한 문서 Collection은 Korpora의 kowikitext를 사용.
 + Retriever는 BM25기반 ElasticSearch 사용.
