@@ -40,7 +40,7 @@ python evaluate.py
 |                     | EM (%) | F1 (%) |
 | ----------------- | ------------ | ------------ |
 | [KorQuAD](https://kakaobrain.github.io/pororo/tagging/mrc.html)            | 84.33    | 93.31    |
-| KorQuAD-OPEN(ours) |         |         |
+| KorQuAD-OPEN(ours) |    25.51     |   39.16      |
 
 
 ## Reference
