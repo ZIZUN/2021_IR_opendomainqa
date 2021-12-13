@@ -7,14 +7,14 @@
 
 ## Process
 
-1. Environment Setting (linux만 지원됩니다-pororo때매 + docker필요, mac은 테스트안해봄)
+1. Environment Setting
 ```console
 pip install -r requirements.txt
 docker pull docker.elastic.co/elasticsearch/elasticsearch:7.9.1
 docker run -d -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" --name elasticsearch7 docker.elastic.co/elasticsearch/elasticsearch:7.9.1
 ```
 
-2. Indexing
+2. Kowiki Download & Indexing
 ```console
 python indexing.py
 ```
