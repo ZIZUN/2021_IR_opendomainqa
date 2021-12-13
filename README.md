@@ -33,7 +33,7 @@ python evaluate.py
 ```
 
 ## Evaluation Result
- - Dataset : KorQuAD 1.0
+ - Dataset : KorQuAD 1.0 Dev set
 
 |                     | EM (%) | F1 (%) |
 | ----------------- | ------------ | ------------ |
